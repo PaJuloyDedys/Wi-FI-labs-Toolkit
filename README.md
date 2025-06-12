@@ -102,4 +102,4 @@ This project is intended **solely for academic research and training**.  Unautho
 ## Author
 
 **Михайло Оксентюк**
-Group **КБ‑306**, NTUU “KPI”
+Group **КБ‑306**
